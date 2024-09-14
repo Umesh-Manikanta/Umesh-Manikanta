@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Umesh Manikanta</h1>
 <h3 align="center">A student from Indian Institute of Information Technology Nagpur</h3>
 <img align="right" src="https://github.com/sivakumarvunnam/sivakumarvunnam/raw/main/images/coder.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
