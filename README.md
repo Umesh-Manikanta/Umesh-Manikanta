@@ -7,7 +7,7 @@
 
 - 🎓 Pursuing **B.Tech in CSE @ IIIT Nagpur (CGPA: 9.69)** and **B.Sc in Data Science @ IIT Madras (CGPA: 9.38)**
 
-- 🌱 I'm currently learning **Deep Learning, Power BI, Modern Application Development**
+- 🌱 I'm currently learning **Deep Learning, Modern Web Development**
 
 - 🚗 Published research on **Deep RL-based Energy Management for Hybrid Electric Vehicles (DDPG)**
 
